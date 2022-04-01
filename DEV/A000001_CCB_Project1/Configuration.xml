@@ -22,6 +22,10 @@
           
 	  <!--v_TFFlag(FilePath)--> 
           <Config_07>True</Config_07>
+
+	  <!--v_KPIFlag(FilePath)--> 
+          <Config_08>False</Config_08>    
+
   
 </DEV>
 
@@ -46,6 +50,10 @@
           
 	  <!--v_TFFlag(FilePath)--> 
           <Config_07>True</Config_07>    
+
+	  <!--v_KPIFlag(FilePath)--> 
+          <Config_08>False</Config_08>    
+
 </UAT>
 
 <PRD>
@@ -69,6 +77,10 @@
           
 	  <!--v_TFFlag(FilePath)--> 
           <Config_07>True</Config_07>
+
+	  <!--v_KPIFlag(FilePath)--> 
+          <Config_08>False</Config_08>    
+
 </PRD>
 
 </Configuration>

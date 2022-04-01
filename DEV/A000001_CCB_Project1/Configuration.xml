@@ -51,7 +51,7 @@
 	  <!--v_TFFlag(FilePath)--> 
           <Config_07>True</Config_07>    
 
-	  <!--v_KPIFlag(FilePath)--> 
+	  <!--v_KPIFlag(KPI Implementation Flag)--> 
           <Config_08>False</Config_08>    
 
 </UAT>

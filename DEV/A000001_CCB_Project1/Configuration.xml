@@ -1,0 +1,74 @@
+<Configuration>
+
+<DEV>
+
+          <!--v_IRCTCLogin_URL(IrctcUrl)-->
+          <Config_01>https://www.irctc.co.in/</Config_01>
+          
+          <!--v_FromStation(FromStation)--> 
+          <Config_02>CHENNAI EGMORE - MS</Config_02>
+           
+           <!--v_ToStation(ToStation)--> 
+          <Config_03>KANYAKUMARI - CAPE</Config_03>
+
+          <!--v_DateString(DateString)--> 
+          <Config_04>03/01/2021</Config_04>
+          
+          <!--v_OutputFilePath(FilePath)--> 
+          <Config_05>C:\NONPRD\AD\GFSS_RPA_OPS_STAGE_Demo_DATA\DEV\Bot1_Demo_Test\TrainDetail.csv</Config_05>
+         
+	  <!--v_OutputFilePath(FilePath)--> 
+          <Config_06>C:\NONPRD\GFSS_RPA_OPS_STAGE_CONFIG\DEV\Bot1_Demo_Test\TF-Task name.csv</Config_06>
+          
+	  <!--v_TFFlag(FilePath)--> 
+          <Config_07>True</Config_07>
+  
+</DEV>
+
+<UAT>
+          <!--v_IRCTCLogin_URL(IrctcUrl)-->
+          <Config_01>https://www.irctc.co.in/</Config_01>
+          
+          <!--v_FromStation(FromStation)--> 
+          <Config_02>CHENNAI EGMORE - MS</Config_02>
+           
+           <!--v_ToStation(ToStation)--> 
+          <Config_03>KANYAKUMARI - CAPE</Config_03>
+
+          <!--v_DateString(DateString)--> 
+          <Config_04>03/01/2021</Config_04>
+          
+          <!--v_OutputFilePath(FilePath)--> 
+          <Config_05>C:\NONPRD\AD\GFSS_RPA_OPS_STAGE_Demo_DATA\DEV\Bot1_Demo_Test\TrainDetail.csv</Config_05>
+         
+	  <!--v_OutputFilePath(FilePath)--> 
+          <Config_06>C:\NONPRD\GFSS_RPA_OPS_STAGE_CONFIG\DEV\Bot1_Demo_Test\TF-Task name.csv</Config_06>
+          
+	  <!--v_TFFlag(FilePath)--> 
+          <Config_07>True</Config_07>    
+</UAT>
+
+<PRD>
+          <!--v_IRCTCLogin_URL(IrctcUrl)-->
+          <Config_01>https://www.irctc.co.in/</Config_01>
+          
+          <!--v_FromStation(FromStation)--> 
+          <Config_02>CHENNAI EGMORE - MS</Config_02>
+           
+           <!--v_ToStation(ToStation)--> 
+          <Config_03>KANYAKUMARI - CAPE</Config_03>
+
+          <!--v_DateString(DateString)--> 
+          <Config_04>03/01/2021</Config_04>
+          
+          <!--v_OutputFilePath(FilePath)--> 
+          <Config_05>C:\NONPRD\AD\GFSS_RPA_OPS_STAGE_Demo_DATA\DEV\Bot1_Demo_Test\TrainDetail.csv</Config_05>
+         
+	  <!--v_OutputFilePath(FilePath)--> 
+          <Config_06>C:\NONPRD\GFSS_RPA_OPS_STAGE_CONFIG\DEV\Bot1_Demo_Test\TF-Task name.csv</Config_06>
+          
+	  <!--v_TFFlag(FilePath)--> 
+          <Config_07>True</Config_07>
+</PRD>
+
+</Configuration>

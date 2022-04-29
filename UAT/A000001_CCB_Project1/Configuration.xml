@@ -68,7 +68,10 @@
           <Config_06>C:\NONPRD\GFSS_RPA_OPS_STAGE_CONFIG\DEV\Bot1_Demo_Test\TF-Task name.csv</Config_06>
           
 	  <!--v_TFFlag(FilePath)--> 
-          <Config_07>True</Config_07>
+          <Config_07>False</Config_07>
+		          
+	  <!--v_TFFlag1(FilePath)--> 
+          <Config_08>True</Config_08>
 </PRD>
 
 </Configuration>
